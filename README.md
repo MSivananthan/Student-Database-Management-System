@@ -1,4 +1,4 @@
-Name      : M Sivananthan 
+![Screenshot (170)](https://github.com/user-attachments/assets/fcd3bd8b-e729-4e27-9085-bfcbf1ab27da)Name      : M Sivananthan 
 <BR>
 Company: CODTECH IT SOLUTIONS
 <BR>
@@ -70,7 +70,7 @@ Here are some key SQL commands used in the project:
          FOREIGN KEY (DepartmentID) REFERENCES Departments(DepartmentID)
      );
      ```
-
+     <img src="Screenshot (163).png">
    - **Courses Table**
      ```sql
      CREATE TABLE Courses (
@@ -82,7 +82,7 @@ Here are some key SQL commands used in the project:
          FOREIGN KEY (DepartmentID) REFERENCES Departments(DepartmentID)
      );
      ```
-
+     <img src="Screenshot (164).png">
    - **Enrollments Table**
      ```sql
      CREATE TABLE Enrollments (
@@ -95,7 +95,7 @@ Here are some key SQL commands used in the project:
          FOREIGN KEY (CourseID) REFERENCES Courses(CourseID)
      );
      ```
-
+     <img src="Screenshot (165).png">
    - **Grades Table**
      ```sql
      CREATE TABLE Grades (
@@ -105,9 +105,13 @@ Here are some key SQL commands used in the project:
          FOREIGN KEY (EnrollmentID) REFERENCES Enrollments(EnrollmentID)
      );
      ```
-
+     <img src="Screenshot (166).png">
+     <img src="Screenshot (167).png">
+     <img src="Screenshot (168).png">
+     <img src="Screenshot (169).png">
+     <img src="Screenshot (170).png">
 ### **Contact Information**
-
+     
 For any inquiries or contributions, feel free to reach out:
 
 [GitHub Profile](https://github.com/MSivananthan)
