@@ -1,4 +1,4 @@
-![Screenshot (170)](https://github.com/user-attachments/assets/fcd3bd8b-e729-4e27-9085-bfcbf1ab27da)Name      : M Sivananthan 
+Name      : M Sivananthan 
 <BR>
 Company: CODTECH IT SOLUTIONS
 <BR>
@@ -71,6 +71,7 @@ Here are some key SQL commands used in the project:
      );
      ```
      <img src="Screenshot (163).png">
+     ![Screenshot (170)](https://github.com/user-attachments/assets/fcd3bd8b-e729-4e27-9085-bfcbf1ab27da)
    - **Courses Table**
      ```sql
      CREATE TABLE Courses (
@@ -110,6 +111,7 @@ Here are some key SQL commands used in the project:
      <img src="Screenshot (168).png">
      <img src="Screenshot (169).png">
      <img src="Screenshot (170).png">
+     
 ### **Contact Information**
      
 For any inquiries or contributions, feel free to reach out:
