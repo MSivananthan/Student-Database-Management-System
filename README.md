@@ -71,7 +71,7 @@ Here are some key SQL commands used in the project:
      );
      ```
      <img src="Screenshot (163).png">
-     ![Screenshot (170)](https://github.com/user-attachments/assets/fcd3bd8b-e729-4e27-9085-bfcbf1ab27da)
+
    - **Courses Table**
      ```sql
      CREATE TABLE Courses (
