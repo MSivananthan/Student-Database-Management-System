@@ -1,14 +1,3 @@
-Name      : M Sivananthan 
-<BR>
-Company: CODTECH IT SOLUTIONS
-<BR>
-Intern ID : CT08DS6401
-<BR>
-Domain  : SQL
-<BR>
-Duration: Augest to September 2024
-<BR>
-Mentor : Muzammil Ahmed
 ## Student Database Management System
 
 Welcome to the **Student Database Management System (SDMS)** repository! This project aims to provide a comprehensive solution for managing student records, including personal information, academic performance, and administrative tasks. It serves as a practical learning experience in SQL commands, database design principles, and data manipulation techniques.
